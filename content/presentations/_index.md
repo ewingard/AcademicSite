@@ -1,7 +1,6 @@
 ---
-title: Publications
+title: Presentations
 cms_exclude: true
-draft: true
 
 # View.
 #   1 = List
@@ -14,11 +13,4 @@ view: 1
 header:
   caption: ''
   image: ''
-
-_build:
-  render: never
-cascade:
-  _build:
-    render: never
-    list: always
 ---
