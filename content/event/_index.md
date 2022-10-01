@@ -1,5 +1,6 @@
 ---
 title: Recent & Upcoming Talks
+draft: true
 cms_exclude: true
 
 # View.
@@ -12,4 +13,11 @@ view: 2
 header:
   caption: ''
   image: ''
+
+_build:
+  render: never
+cascade:
+  _build:
+    render: never
+    list: never
 ---
