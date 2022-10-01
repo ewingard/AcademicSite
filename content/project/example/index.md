@@ -1,41 +1,42 @@
 ---
-title: Example Project
-summary: An example of using the in-built project page.
+title: The Impact of Biases in Facial Recognition Artificial Neural Networks
+subtitle: Honors Thesis at SUNY Oswego
+#summary:
 tags:
-  - Deep Learning
-date: '2016-04-27T00:00:00Z'
+  - Neural Networks, DEI
+date: '2022-10-02'
 
 # Optional external URL for project (replaces project detail page).
-external_link: ''
+# external_link: ''
 
-image:
-  caption: Photo by rawpixel on Unsplash
-  focal_point: Smart
-
-links:
-  - icon: twitter
-    icon_pack: fab
-    name: Follow
-    url: https://twitter.com/georgecushen
-url_code: ''
-url_pdf: ''
-url_slides: ''
-url_video: ''
+#links:
+ # - icon: twitter
+ #   icon_pack: fab
+ #   name: Follow
+ #   url: https://twitter.com/neuroemw
+# url_code: ''
+# url_pdf: ''
+# url_slides: ''
+# url_video: ''
 
 # Slides (optional).
 #   Associate this project with Markdown slides.
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
-slides: example
+# slides: ''
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+In the field of artificial intelligence, the topic of neural network prejudice and bias is becoming more well-known by the day. It is now well understood that there is a major issue with how we are currently creating neural networks, because a lot of the facial recognition software (whether it be for commercial or personal use) that is being created is deeply flawed in regards to accuracy and equity between populations. For example, there have been many studies that show facial recognition and automatic gender recognition(AGR) technology's accuracy rates are significantly worse on [Black](https://www.media.mit.edu/projects/gender-shades/overview/) and/or [transgender](https://www.morgan-klaus.com/pdfs/pubs/Scheuerman-CSCW2019-HowComputersSeeGender.pdf) people. because of this influx of new papers on the subject, I decided to try my hand at helping the field try to mitigate this issue, because of the devastating real-life effects that this can have when this technology is deployed commercially or by the government on these populations.
 
-Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.
+For the basis of my honors thesis at SUNY Oswego, I am creating a convolutional neural network (CNN) that will allow me to probe some pressing questions on facial recognition neural network biases:
 
-Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.
+  1. How do biases infiltrate neural networks and thus affect their accuracy rates? 
+  2. What are the real-life effects of the reprecussions caused by these biases on marginalized groups of people?
+  3. How can we mitigate some of the biases leading to racial and gender prejudice in neural networks?
 
-Suspendisse a tincidunt lacus. Curabitur at urna sagittis, dictum ante sit amet, euismod magna. Sed rutrum massa id tortor commodo, vitae elementum turpis tempus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean purus turpis, venenatis a ullamcorper nec, tincidunt et massa. Integer posuere quam rutrum arcu vehicula imperdiet. Mauris ullamcorper quam vitae purus congue, quis euismod magna eleifend. Vestibulum semper vel augue eget tincidunt. Fusce eget justo sodales, dapibus odio eu, ultrices lorem. Duis condimentum lorem id eros commodo, in facilisis mauris scelerisque. Morbi sed auctor leo. Nullam volutpat a lacus quis pharetra. Nulla congue rutrum magna a ornare.
+1. There have been many studies which have shown the wide array of ways that biases can infiltrate neural networks; one notable mention being through unbalanced datasets. This means that a lot of the datasets being used to train facial recognition neural networks are mostly cisgender white men, and therefore affect the accuracy rates to be better on that group. This disproportionately affects groups that are traditionally underrepresented (both in these datasets and in other places), such as transgender people and non-white individuals. 
 
-Aliquam in turpis accumsan, malesuada nibh ut, hendrerit justo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque sed erat nec justo posuere suscipit. Donec ut efficitur arcu, in malesuada neque. Nunc dignissim nisl massa, id vulputate nunc pretium nec. Quisque eget urna in risus suscipit ultricies. Pellentesque odio odio, tincidunt in eleifend sed, posuere a diam. Nam gravida nisl convallis semper elementum. Morbi vitae felis faucibus, vulputate orci placerat, aliquet nisi. Aliquam erat volutpat. Maecenas sagittis pulvinar purus, sed porta quam laoreet at.
+2. These biases can negatively affect these marginalized groups, which is shown through the real-life reprecussions that have already been discovered. Some considerable instances include [police](https://towardsdatascience.com/how-bad-facial-recognition-software-gets-black-people-arrested-3c02738a3d54) using facial recognition software to identify criminals, and instead misidentifying innocent Black individuals as criminals, as well as the potential for [transgender](https://dl.acm.org/doi/10.1145/3173574.3173582) people being misgendered by machine learning algorithms not being able to change their prescribed gender, leading to harmful [mental health effects](https://psycnet.apa.org/doiLanding?doi=10.1037%2Fsah0000070).
+
+3. I hypothesize that we can mitigate some of the potential biases leading to racial and gender prejudice in facial recognition technology by opting for a balanced dataset for training, as well as moving forward in the future instead of using a male/female binary gender option, opting to use a masculine/feminine continuous spectrum.

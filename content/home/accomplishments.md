@@ -23,29 +23,21 @@ date_format: Jan 2006
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
-  - certificate_url: https://www.coursera.org
-    date_end: ''
-    date_start: '2021-01-25'
+  - certificate_url: https://www.citiprogram.org/verify/?we5d221c4-1aa8-41f8-a3d8-0ab699ccea78-38185478
+    date_end: '2023-09-04'
+    date_start: '2020-09-04'
     description: ''
-    organization: Coursera
-    organization_url: https://www.coursera.org
-    title: Neural Networks and Deep Learning
+    organization: CITI Program
+    organization_url: https://www.citiprogram.org
+    title: Social and Behavioral Research
     url: ''
-  - certificate_url: https://www.edx.org
+  - certificate_url: https://www.citiprogram.org/verify/?wa68df7be-5d86-472f-8ed1-27da99676120-38185480
     date_end: ''
-    date_start: '2021-01-01'
-    description: Formulated informed blockchain models, hypotheses, and use cases.
-    organization: edX
-    organization_url: https://www.edx.org
-    title: Blockchain Fundamentals
-    url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-  - certificate_url: https://www.datacamp.com
-    date_end: '2020-12-21'
-    date_start: '2020-07-01'
+    date_start: '2020-09-04'
     description: ''
-    organization: DataCamp
-    organization_url: https://www.datacamp.com
-    title: 'Object-Oriented Programming in R'
+    organization: CITI Program
+    organization_url: https://www.citiprogram.org
+    title: Responsible Conduct of Research for Undergrad Students
     url: ''
 
 design:

@@ -12,7 +12,7 @@ date: '2021-04-05T'
 all_day: false
 
 # Schedule page publish date (NOT talk date).
-publishDate: '2017-01-01T00:00:00Z'
+# publishDate: '2017-01-01T00:00:00Z'
 
 authors: ['Dykas, M., Wingard, E. M.']
 tags: 'Psychology'
@@ -25,7 +25,7 @@ featured: false
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
-# slides: {{< gdocs src="https://docs.google.com/presentation/d/e/2PACX-1vRJQazOmgACWNMaUD6-48ZRaCnyRRsSCSiJVyqxIN9QuzW-77WmeLrKTGRqDySNz2ADZ_GgYkgjkisn/embed?start=false&loop=false&delayms=60000" frameborder="0" width="4032" height="3053" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"> }}
+slides: 'Narcissism-DykasEMW'
 
 # Projects (optional).
 #   Associate this post with one or more of your projects.
