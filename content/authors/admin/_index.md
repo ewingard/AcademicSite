@@ -54,8 +54,8 @@ social:
     icon_pack: fab
     link: https://www.linkedin.com/in/ewingard
   - icon: cv
-   icon_pack: ai
-   link: 'uploads/emw-CV.pdf'
+    icon_pack: ai
+    link: 'uploads/emw-CV.pdf'
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ''
