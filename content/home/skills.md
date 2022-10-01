@@ -21,8 +21,8 @@ feature:
     icon_pack: fas
     name: French
   - description: 90%
-    icon: files
-    icon_pack: far
+    icon: file-word
+    icon_pack: fas
     name: Microsoft Office, Google Suite
 # Uncomment to use emoji icons.
 #- icon: ":smile:"

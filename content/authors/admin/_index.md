@@ -3,7 +3,7 @@
 title: Ezra Wingard
 
 # Full name (for SEO)
-first_name: Ezra M.
+first_name: Ezra
 last_name: Wingard
 
 # Is this the primary user of the site?
@@ -68,4 +68,4 @@ Hi there! My name is Ezra M. Wingard, and I am a current undergraduate at SUNY O
 
 I am eager to meet new individuals within the realm of cognitive science, psychology, and surrounding areas, so if you're interested in meeting virtually, please email me or send me a text!
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/emw-CV.pdf" "newtab" >}}CV.{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/emw-CV.pdf" "newtab" >}}CV{{< /staticref >}}.
