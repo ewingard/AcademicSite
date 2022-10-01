@@ -9,7 +9,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 70
 
-title: 'Presentations'
+title: Presentations
 subtitle:
 
 content:
@@ -25,7 +25,7 @@ content:
     exclude_featured: false
     exclude_future: false
     exclude_past: false
-    publication_type: 'Poster'
+    publication_type: ''
   # Choose how many pages you would like to offset by
   offset: 0
   # Page order: descending (desc) or ascending (asc) date.
