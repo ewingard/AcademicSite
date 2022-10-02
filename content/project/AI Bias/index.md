@@ -1,7 +1,7 @@
 ---
 title: The Impact of Biases in Facial Recognition Artificial Neural Networks
 subtitle: Honors Thesis at SUNY Oswego
-#summary:
+summary: Finding and mitigating biases in a facial recognition convolutional neural network
 tags:
   - CompSci
 date: '2022-10-02'
