@@ -15,7 +15,8 @@ all_day: false
 # publishDate: '2017-01-01T00:00:00Z'
 
 authors: [Dykas, M., Wingard, E. M.]
-tags: [Psychology]
+tags:
+    - Psychology
 summary: When narcissists are forced to 'feel bad' about their actions, they become less defensive.
 abstract: 'The principal aim of this study was to determine whether experimentally induced ruminating
 about an unpleasant personal experience (in comparison to accepting it and or distancing from
