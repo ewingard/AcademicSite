@@ -12,7 +12,7 @@ date: '2021-04-05T'
 all_day: false
 
 # Schedule page publish date (NOT talk date).
-# publishDate: '2017-01-01T00:00:00Z'
+publishDate: '2017-01-01T00:00:00Z'
 
 authors: [Dykas, M., Wingard, E. M.]
 tags: 'Psychology'
@@ -45,6 +45,11 @@ they became significant more defensive (p < .05).'
 
 # Is this a featured talk? (true/false)
 featured: false
+
+url_code: ''
+url_pdf: ''
+url_slides: ''
+url_video: ''
 
 # Markdown Slides (optional).
 #   Associate this talk with Markdown slides.
