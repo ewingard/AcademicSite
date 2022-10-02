@@ -1,10 +1,10 @@
 ---
 title: The Impact of Biases in Facial Recognition Artificial Neural Networks
-page_type: project
+page: project
 subtitle: Honors Thesis at SUNY Oswego
 #summary:
 tags:
-  - Neural Networks
+  - Neural Networks, DEI
 date: '2022-10-02'
 
 # Optional external URL for project (replaces project detail page).
@@ -15,10 +15,10 @@ date: '2022-10-02'
  #   icon_pack: fab
  #   name: Follow
  #   url: https://twitter.com/neuroemw
-url_code: ''
-url_pdf: ''
-url_slides: ''
-url_video: ''
+# url_code: ''
+# url_pdf: ''
+# url_slides: ''
+# url_video: ''
 
 # Slides (optional).
 #   Associate this project with Markdown slides.
