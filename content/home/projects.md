@@ -27,12 +27,12 @@ content:
   filter_button:
     - name: All
       tag: '*'
-    - name: Neural Networks
-      tag: Neural Networks
-    - name: Aphantasia
-      tag: Aphantasia
-    #- name:
-    #  tag:
+    - name: Computer Science
+      tag: 'CompSci'
+    - name: Psychology
+      tag: 'Psych'
+    #- name: Cognitive Science
+    #  tag: CogSci
 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.

@@ -25,7 +25,7 @@ feature:
     icon_pack: fas
     name: Microsoft Office, Google Suite
   - description: 80%
-    icon: square-terminal
+    icon: square-code
     icon_pack: fas
     name: Programming
 # Uncomment to use emoji icons.

@@ -1,10 +1,9 @@
 ---
 title: The Impact of Biases in Facial Recognition Artificial Neural Networks
-page: project
 subtitle: Honors Thesis at SUNY Oswego
 #summary:
 tags:
-  - Neural Networks
+  - CompSci
 date: '2022-10-02'
 
 # Optional external URL for project (replaces project detail page).
@@ -36,8 +35,8 @@ For the basis of my honors thesis at SUNY Oswego, I am creating a convolutional 
   2. What are the real-life effects of the reprecussions caused by these biases on marginalized groups of people?
   3. How can we mitigate some of the biases leading to racial and gender prejudice in neural networks?
 
-1. There have been many studies which have shown the wide array of ways that biases can infiltrate neural networks; one notable mention being through unbalanced datasets. This means that a lot of the datasets being used to train facial recognition neural networks are mostly cisgender white men, and therefore affect the accuracy rates to be better on that group. This disproportionately affects groups that are traditionally underrepresented (both in these datasets and in other places), such as transgender people and non-white individuals. 
+1) There have been many studies which have shown the wide array of ways that biases can infiltrate neural networks; one notable mention being through unbalanced datasets. This means that a lot of the datasets being used to train facial recognition neural networks are mostly cisgender white men, and therefore affect the accuracy rates to be better on that group. This disproportionately affects groups that are traditionally underrepresented (both in these datasets and in other places), such as transgender people and non-white individuals.
 
-2. These biases can negatively affect these marginalized groups, which is shown through the real-life reprecussions that have already been discovered. Some considerable instances include [police](https://towardsdatascience.com/how-bad-facial-recognition-software-gets-black-people-arrested-3c02738a3d54) using facial recognition software to identify criminals, and instead misidentifying innocent Black individuals as criminals, as well as the potential for [transgender](https://dl.acm.org/doi/10.1145/3173574.3173582) people being misgendered by machine learning algorithms not being able to change their prescribed gender, leading to harmful [mental health effects](https://psycnet.apa.org/doiLanding?doi=10.1037%2Fsah0000070).
+2) These biases can negatively affect these marginalized groups, which is shown through the real-life reprecussions that have already been discovered. Some considerable instances include [police](https://towardsdatascience.com/how-bad-facial-recognition-software-gets-black-people-arrested-3c02738a3d54) using facial recognition software to identify criminals, and instead misidentifying innocent Black individuals as criminals, as well as the potential for [transgender](https://dl.acm.org/doi/10.1145/3173574.3173582) people being misgendered by machine learning algorithms not being able to change their prescribed gender, leading to harmful [mental health effects](https://psycnet.apa.org/doiLanding?doi=10.1037%2Fsah0000070).
 
-3. I hypothesize that we can mitigate some of the potential biases leading to racial and gender prejudice in facial recognition technology by opting for a balanced dataset for training, as well as moving forward in the future instead of using a male/female binary gender option, opting to use a masculine/feminine continuous spectrum.
+3) I hypothesize that we can mitigate some of the potential biases leading to racial and gender prejudice in facial recognition technology by opting for a balanced dataset for training, as well as moving forward in the future instead of using a male/female binary gender option, opting to use a masculine/feminine continuous spectrum.
