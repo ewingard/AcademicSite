@@ -12,7 +12,7 @@ date: '2021-04-05T'
 all_day: false
 
 # Schedule page publish date (NOT talk date).
-publishDate: '2017-01-01T00:00:00Z'
+publishDate: '2021-04-05T'
 
 authors: [Dykas, Wingard]
 tags:
