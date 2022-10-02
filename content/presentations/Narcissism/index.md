@@ -43,6 +43,10 @@ less defensive feedback seeking memories (p < .05). However, when participants s
 on narcissism were asked to distance themselves from thinking about hurting another person,
 they became significant more defensive (p < .05).'
 
+
+image: 
+    - focal_point: center
+
 # Is this a featured talk? (true/false)
 featured: false
 
