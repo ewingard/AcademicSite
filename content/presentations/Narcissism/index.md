@@ -17,7 +17,7 @@ all_day: false
 authors: [Dykas, M., Wingard, E. M.]
 tags: 'Psychology'
 
-![Poster](Narcissism-DykasEMW.png)
+image: ![Poster](Narcissism-DykasEMW.png)
 
 # Is this a featured talk? (true/false)
 featured: false
