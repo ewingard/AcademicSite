@@ -17,7 +17,7 @@ all_day: false
 authors: [Dykas, M., Wingard, E. M.]
 tags: 'Psychology'
 summary: When narcissists are forced to 'feel bad' about their actions, they become less defensive.
-abstract: The principal aim of this study was to determine whether experimentally induced ruminating
+abstract: 'The principal aim of this study was to determine whether experimentally induced ruminating
 about an unpleasant personal experience (in comparison to accepting it and or distancing from
 it) influenced how persons defensively seek out information about themselves, and whether
 narcissistic tendencies moderate this link. Before visiting out lab, participants completed the
@@ -41,7 +41,7 @@ good at "taking care of himself/herself first” during unsettled times?). Preli
 high on narcissism were asked to ruminate about hurting others, they engage in significantly
 less defensive feedback seeking memories (p < .05). However, when participants scoring high
 on narcissism were asked to distance themselves from thinking about hurting another person,
-they became significant more defensive (p < .05).
+they became significant more defensive (p < .05).'
 
 # Is this a featured talk? (true/false)
 featured: false
