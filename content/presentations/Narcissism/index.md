@@ -17,6 +17,8 @@ all_day: false
 authors: [Dykas, M., Wingard, E. M.]
 tags: 'Psychology'
 
+![Poster](Narcissism-DykasEMW.png)
+
 # Is this a featured talk? (true/false)
 featured: false
 
@@ -25,7 +27,6 @@ featured: false
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
-slides: 'Narcissism-DykasEMW'
 
 # Projects (optional).
 #   Associate this post with one or more of your projects.
