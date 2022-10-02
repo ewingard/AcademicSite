@@ -1,5 +1,6 @@
 ---
 title: The Impact of Biases in Facial Recognition Artificial Neural Networks
+page_type: project
 subtitle: Honors Thesis at SUNY Oswego
 #summary:
 tags:
