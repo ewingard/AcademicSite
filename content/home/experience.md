@@ -31,11 +31,11 @@ experience:
     description: |2-
         Responsibilities include:
         
-        *Supervising interns and volunteers
-        *Manage and organize inventory system
-        *Engage with campus individuals to promote food pantry
-        *Maintain statistics and pertinent information
-        *Oversee marketing efforts
+        *Supervising interns and volunteers <br/>
+        *Manage and organize inventory system <br/>
+        *Engage with campus individuals to promote food pantry <br/>
+        *Maintain statistics and pertinent information <br/>
+        *Oversee marketing efforts <br/>
 
 
   - title: Peer Specialist
@@ -47,11 +47,11 @@ experience:
     description: |2-
         Responsibilities included:
 
-        *Collaborated in leadership role
-        *Led discussions
-        *Helped develop education and event plans for weekly programs
-        *Skillfully communicated and maintained confidentiality
-        *Spoke effectively in public on diverse topics
+        *Collaborated in leadership role <br/>
+        *Led discussions <br/>
+        *Helped develop education and event plans for weekly programs <br/>
+        *Skillfully communicated and maintained confidentiality <br/>
+        *Spoke effectively in public on diverse topics <br/>
   
 
 design:
