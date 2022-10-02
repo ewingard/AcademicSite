@@ -4,7 +4,7 @@ page: project
 subtitle: Honors Thesis at SUNY Oswego
 #summary:
 tags:
-  - Neural Networks, DEI
+  - Neural Networks
 date: '2022-10-02'
 
 # Optional external URL for project (replaces project detail page).
