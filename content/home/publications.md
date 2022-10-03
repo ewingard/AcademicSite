@@ -5,7 +5,7 @@ widget: pages
 
 # This file represents a page section.
 headless: false
-draft: true
+cms_exclude: true
 
 # Order that this section appears on the page.
 weight: 90
