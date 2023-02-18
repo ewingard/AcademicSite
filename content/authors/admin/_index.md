@@ -18,7 +18,7 @@ organizations:
     url: ww1.oswego.edu
 
 # Short bio (displayed in user profile at end of posts)
-bio: I have a wide array of research interests, including 
+bio: Aspiring future Cognitive Scientist with a passion for an array of subjects including psychology, second language acquisition, and DEI (Diversity, Equity, and Inclusion).
 
 # Interests to show in About widget
 interests:
@@ -30,6 +30,7 @@ interests:
 education:
   courses:
     - course: B.A. in Cognitive Science, Psychology
+      course: Minor in French
       institution: SUNY Oswego
       year: 2023
 
