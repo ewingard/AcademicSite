@@ -29,8 +29,7 @@ interests:
 # Education to show in About widget
 education:
   courses:
-    - course: B.A. in Cognitive Science, Psychology
-      course: Minor in French
+    - course: B.A. in Cognitive Science & Psychology, Minor in French
       institution: SUNY Oswego
       year: 2023
 
