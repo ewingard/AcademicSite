@@ -9,7 +9,7 @@ location: Pittsburgh, PA
 #   End time can optionally be hidden by prefixing the line with `#`.
 date: '2023-03-30 T08:00:00Z'
 date_end: '2023-04-02 T18:00:00Z'
-all_day: true
+all_day: false
 
 # Schedule page publish date (NOT talk date).
 publishDate: '2021-04-01T09:00:00Z'
