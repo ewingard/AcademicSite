@@ -47,10 +47,13 @@ item:
         Notable Honors and Awards recieved during my time as an Undergraduate at SUNY Oswego include:<br/> 
       
         *SUNY Oswego's Honors College Program -- Spring 2021 - Spring 2023<br/>
+        *Member of 2 honors societies - Psi Chi and Pi Delta Phi (Psychology and French respectively) -- Spring 2022 - Present</br>
+        *Made Senior Officer of Pi Delta Phi -- Spring 2023</br>
         *Merit Scholarship -- Fall 2019 - Spring 2023<br/>
         *Dean's List -- Fall 2021 - Fall 2022<br/>
         *President's List -- Fall 2019 - Spring 2020<br/>
         *Distinguished Cognitive Science Senior Award  -- Spring 2023<br/>
+        *Excellence in French Award -- Spring 2023</br>
 
 
 
