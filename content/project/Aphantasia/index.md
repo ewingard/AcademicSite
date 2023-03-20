@@ -34,7 +34,6 @@ The study that I am conducting with Dr. Theo Rhodes and Dr. Sien Hu at SUNY Oswe
   1. Is there a difference on a mental rotation task in those with aphantasia versus those without aphantasia?
   2. How can we use the differences on a mental rotation task in the aphantasic versus non aphantasic population in order to learn more about the mental processes and behaviors associated with the condition?
 
-In order to test this, we conducted a preliminary study during 2021 using the CABIN 3-T fMRI at the University of Rochester in order to see the physical differences between aphantasic and non-aphantasic individuals brains during the mental rotation task. A manuscript is currently in preparation containing the results. Four adults with self-reported aphantasia and six adults without
-aphantasia participated in this study.
+In order to test this, we conducted a preliminary study during 2021 using the CABIN 3-T fMRI at the University of Rochester in order to see the physical differences between aphantasic and non-aphantasic individuals brains during the mental rotation task. A manuscript is currently in preparation containing the results. Four adults with self-reported aphantasia and six adults without aphantasia participated in this study.
 
 Currently, I am working with Dr. Rhodes and Dr. Hu in order to continue the study mentioned above. This study is a behavioral-only experiment that will consist of a mouse-tracking task on a computer. The mental rotation task will be the same as the task completed in the fMRI scanner, however for this extension of the project we will not be proceeding with the fMRI. 

@@ -1,5 +1,5 @@
 ---
-title: The Impact of Biases in Facial Recognition Artificial Neural Networks
+title: The Impact of Biases in Facial Recognition Artificial Neural Networks - Preliminary Poster at NRHC
 
 event: Northeast Regional Honors Conference
 
@@ -19,7 +19,7 @@ tags:
     - CompSci
 
 summary: Finding and mitigating biases in a facial recognition convolutional neural network
-abstract: 'Following a controlled experiment regarding the testing of a convolutional neural network (CNN) on the task of recognizing and classifying faces of transgender people and non-white people, preliminary data analysis has suggested the need to further incorporate transgender people into datasets when training facial recognition neural networks. The CNN model used in this experiment is a pre-trained model, which was thus tested on 3 different datasets in order to measure potential biases: a novel dataset consisting of self-reported binary transgender individuals, a balanced dataset, and an unbalanced dataset. Similar to research suggested by prominent authors in the field of AI - specifically regarding the potential dangers of biases in such algorithms - it was found that self-identifying binary transgender men were more often misgendered than self-identifying binary transgender women. Further research is needed in order to potentially mitigate such biases in future iterations of neural networks.'
+abstract: 'Following a controlled experiment regarding the testing of a convolutional neural network (CNN) on the task of recognizing and classifying faces of transgender people and non-white people, preliminary data analysis has suggested the need to further incorporate transgender people into datasets when training facial recognition neural networks. The CNN model used in this experiment is a pre-trained model, which was thus tested on a novel dataset consisting of binary transgender individuals. Similar to research suggested by prominent authors in the field of AI - specifically regarding the potential dangers of biases in such algorithms - it was found that self-identifying binary transgender men were more often misgendered than self-identifying binary transgender women. Further research is needed in order to potentially help to mitigate such biases in future iterations of neural networks.'
 
 # Is this a featured talk? (true/false)
 featured: false
@@ -43,4 +43,6 @@ url_video: ''
 projects: ["AI Bias"]
 ---
 
-For further information on the topic of this project, please refer to the AI Bias project page.
+For further information on the topic of this project, please refer to the AI Bias project page by clicking the Project button at the top of this page.
+
+> **_NOTE:_** The poster that is being presented at this conference will be uploaded to this page at a later date as an online copy. Thank you for your patience!
