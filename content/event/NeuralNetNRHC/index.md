@@ -45,4 +45,4 @@ projects: ["AI Bias"]
 
 For further information on the topic of this project, please refer to the AI Bias project page by clicking the Project button at the top of this page.
 
-![Poster Presentation](HonorsThesis-Poster-Graph.pdf)
+![PosterPresentation](HonorsThesis-Poster-Graph.png)
