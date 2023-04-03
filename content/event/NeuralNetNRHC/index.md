@@ -45,4 +45,4 @@ projects: ["AI Bias"]
 
 For further information on the topic of this project, please refer to the AI Bias project page by clicking the Project button at the top of this page.
 
-> **_NOTE:_** The poster that is being presented at this conference will be uploaded to this page at a later date as an online copy. Thank you for your patience!
+![Poster Presentation](HonorsThesis-Poster-Graph.pdf)
