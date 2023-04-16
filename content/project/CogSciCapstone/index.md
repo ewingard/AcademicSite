@@ -31,4 +31,4 @@ This project was conducted for my Cognitive Science Capstone (COG468) at SUNY Os
 
 For my project in the Capstone course, I chose to conduct research on the relationship between embodied cognition (EC) and aphantasia. Because there was no research specifically on the subject, I chose to synthesize new literature to relate the two subjects rather than have a literature review-style project. The final parts of my project for this capstone include my final paper and presentation, which are both attached to this page.
 
-{{< staticref "uploads/FinalPaper.pdf" "newtab" >}} Download/view my COG468 Final Paper here! {{< /staticref >}}.
+{{< staticref "uploads/FinalPaper.pdf" "newtab" >}} Download/view my COG468 Final Paper here! {{< /staticref >}}

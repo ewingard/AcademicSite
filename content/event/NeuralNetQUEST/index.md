@@ -3,12 +3,12 @@ title: The Impact of Biases in Facial Recognition Artificial Neural Networks
 
 event: SUNY Oswego QUEST
 
-location: TBD
+location: Shineman 174, Zoom
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2023-04-19T08:00:00Z'
-date_end: '2023-04-19T18:00:00Z'
+date: '2023-04-19T015:00:00Z'
+date_end: '2023-04-19T16:00:00Z'
 all_day: false
 
 # Schedule page publish date (NOT talk date).
