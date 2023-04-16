@@ -47,12 +47,16 @@ social:
  # - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
  #   icon_pack: fas
  #   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ 
- # - icon: github
- #   icon_pack: fab
- #   link: https://github.com/gcushen
+  - icon: orcid
+    icon_pack: ai
+#    name: ORCID
+    link: 'https://orcid.org/0009-0008-5315-2370'
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/ewingard
+  - icon: github
+    icon_pack: fab
+    link: 'https://github.com/ewingard'
   - icon: cv
     icon_pack: ai
     link: 'uploads/emw-CV.pdf'

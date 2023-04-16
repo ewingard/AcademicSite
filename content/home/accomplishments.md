@@ -52,7 +52,7 @@ item:
         *Merit Scholarship -- Fall 2019 - Spring 2023<br/>
         *Dean's List -- Fall 2021 - Fall 2022<br/>
         *President's List -- Fall 2019 - Spring 2020<br/>
-        *Distinguished Cognitive Science Senior Award  -- Spring 2023<br/>
+        *Distinguished Cognitive Science Senior Award -- Spring 2023<br/>
         *Excellence in French Award -- Spring 2023</br>
 
 
