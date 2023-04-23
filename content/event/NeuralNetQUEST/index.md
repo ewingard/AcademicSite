@@ -7,12 +7,12 @@ location: Shineman 174, Zoom
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2023-04-19T015:00:00Z'
+date: '2023-04-19T15:00:00Z'
 date_end: '2023-04-19T16:00:00Z'
 all_day: false
 
 # Schedule page publish date (NOT talk date).
-publishDate: '2021-04-01T09:00:00Z'
+# publishDate: '2021-04-01T09:00:00Z'
 
 authors: [Wingard]
 tags:
