@@ -29,13 +29,13 @@ experience:
     date_start: '2022-08-15'
     date_end: '2023-05-08'
     description: |2-
-        Responsibilities include:
+        Responsibilities included:
         
-        *Supervising interns and volunteers <br/>
-        *Manage and organize inventory system <br/>
-        *Engage with campus individuals to promote food pantry <br/>
-        *Maintain statistics and pertinent information <br/>
-        *Oversee marketing efforts <br/>
+        *Supervised interns and volunteers <br/>
+        *Managed and organized inventory system <br/>
+        *Engaged with campus individuals to promote food pantry <br/>
+        *Maintained statistics and pertinent information <br/>
+        *Oversaw marketing efforts <br/>
 
 
   - title: Peer Specialist / Clubhouse Specialist

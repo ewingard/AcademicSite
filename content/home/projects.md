@@ -31,8 +31,8 @@ content:
       tag: 'CompSci'
     - name: Psychology
       tag: 'Psych'
-    #- name: Cognitive Science
-    #  tag: CogSci
+    - name: Cognitive Science
+      tag: 'CogSci'
 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.

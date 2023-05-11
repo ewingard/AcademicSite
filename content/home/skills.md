@@ -16,15 +16,15 @@ subtitle:
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
-  - description: 85%
+  - description: 90%
     icon: language
     icon_pack: fas
     name: French
-  - description: 90%
+  - description: 95%
     icon: file-word
     icon_pack: fas
     name: Microsoft Office, Google Suite
-  - description: 80%
+  - description: 85%
     icon: terminal
     icon_pack: fas
     name: Programming
