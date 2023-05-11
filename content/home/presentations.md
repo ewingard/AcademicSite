@@ -20,13 +20,16 @@ content:
 
   filter_default: 0
   # Filter on criteria'
-  filter_button:
+
+  filter:
   - name: All
     tag: '*'
   - name: Computer Science
     tag: 'CompSci'
   - name: Psychology
     tag: 'Psych'
+  - name: Cognitive Science
+    tag: 'CogSci'
   # Choose how many pages you would like to offset by
   offset: 0
   # Page order: descending (desc) or ascending (asc) date.

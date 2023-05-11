@@ -2,7 +2,8 @@
 title: The Relationship Between Embodied Cognition (EC) and Aphantasia
 # subtitle:
 summary: EC and Aphantasia have been studied separately, but what can we learn from understanding in terms of each other?
-tags: CogSci
+tags:
+- CogSci
 date: '2022-10-02'
 
 # Optional external URL for project (replaces project detail page).
