@@ -27,8 +27,6 @@ content:
     tag: 'CompSci'
   - name: Psychology
     tag: 'Psych'
-  - name: Cognitive Science
-    tag: 'CogSci'
   # Choose how many pages you would like to offset by
   offset: 0
   # Page order: descending (desc) or ascending (asc) date.
