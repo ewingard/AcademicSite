@@ -27,7 +27,7 @@ experience:
     company_url: 'https://ww1.oswego.edu/dean-students/shop'
     location: Oswego, New York
     date_start: '2022-08-15'
-    date_end: ''
+    date_end: '2023-05-08'
     description: |2-
         Responsibilities include:
         
@@ -38,12 +38,12 @@ experience:
         *Oversee marketing efforts <br/>
 
 
-  - title: Peer Specialist
+  - title: Peer Specialist / Clubhouse Specialist
     company: Oswego County Opportunities (OCO)
     company_url: 'https://www.oco.org'
     location: Oswego, New York
     date_start: '2019-09-19'
-    date_end: '2022-06-30'
+    date_end: '2023-05-11'
     description: |2-
         Responsibilities included:
 
