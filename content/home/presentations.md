@@ -17,6 +17,8 @@ content:
   page_type: event
   # Choose how many pages you would like to display (0 = all pages)
   count: 5
+
+  filter_default: 0
   # Filter on criteria'
   filter_button:
   - name: All
