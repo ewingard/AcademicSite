@@ -27,11 +27,7 @@ content:
   # Contact details (edit or remove options as required)
   email: emwingard07@gmail.com
   phone: (803) 605-4795
-  contact_links:
-    - icon: twitter
-      icon_pack: fab
-      name: Twitter
-      link: 'https://twitter.com/neuroemw'
+  #    contact_links:
 design:
   columns: '2'
 ---

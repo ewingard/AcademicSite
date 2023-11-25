@@ -16,7 +16,7 @@ date: '2023-08-23'
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2023-010-30Z'
+publishDate: '2023-010-31Z'
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -39,11 +39,11 @@ tags: [CompSci]
 featured: false
 
 # Custom links (uncomment lines below)
-# links:
-# - name: Custom Link
-#   url: http://example.org
+links:
+- name: Link to Illuminate NRHC Journal
+url: https://www.illuminatenrhc.com/post/the-impact-of-biases-in-facial-recognition-artificial-neural-networks-by-ezra-wingard
 
-# url_pdf: ''
+url_pdf: ''
 # url_code: ''
 # url_dataset: ''
 # url_poster: ''
@@ -73,6 +73,5 @@ projects:
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
 slides: ""
----
 
-This publication was accepted into the NRHC journal and is scheduled to be published in the Journal's 2023 edition. Please check back for updates and direct links to the publication when the edition is officially accessible to all. Meanwhile, please feel free to check the AI Bias project page which contains pertinent information relating to the publication.
+---

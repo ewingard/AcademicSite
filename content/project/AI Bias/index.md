@@ -14,6 +14,10 @@ links:
    icon_pack: fab
    name: Check out my Github Repo!
    url: 'https://github.com/ewingard/HonorsThesis'
+ - icon: file-lines
+   icon_pack: fas
+   name: Publication
+   url: 'https://www.illuminatenrhc.com/post/the-impact-of-biases-in-facial-recognition-artificial-neural-networks-by-ezra-wingard'
 # url_code: ''
 # url_pdf: ''
 # url_slides: ''
@@ -26,8 +30,6 @@ links:
 #   Otherwise, set `slides = ""`.
 # slides: ''
 ---
-> ***UPDATE*** : I am happy to announce that my honors thesis has been accepted for publication into the NRHC's Journal for Undergraduate Students, *Illuminate*. It will be published in the 2023 edition, which will be linked whenever it is officially accessible.
-
 In the field of artificial intelligence, the topic of neural network prejudice and bias is becoming more well-known by the day. More instances of unethical AI practices have been documented by the [AIAAIC database](https://www.aiaaic.org/aiaaic-repository), with instances branching outside of the scope of this project. It is now well understood that there is a major issue with how we are currently creating neural networks, because a lot of the facial recognition software (whether it be for commercial or personal use) that is being created is deeply flawed in regards to accuracy and equity between populations. For example, there have been many studies that show facial recognition and automatic gender recognition (AGR) technology's accuracy rates are significantly worse on [Black Women](https://www.media.mit.edu/projects/gender-shades/overview/) and/or [transgender](https://www.morgan-klaus.com/pdfs/pubs/Scheuerman-CSCW2019-HowComputersSeeGender.pdf) people. Because of this influx of new research on the subject of AI Ethics since [around 2014](https://hai.stanford.edu/news/2022-ai-index-industrialization-ai-and-mounting-ethical-concerns), I decided to try my hand at helping the field try to mitigate this issue, because of the devastating real-life effects that this can have when this technology is deployed commercially or by the government on these populations.
 
 For the basis of my honors thesis at SUNY Oswego, I used two convolutional neural network (CNN) models that allowed me to probe some pressing questions on facial recognition neural network biases:
