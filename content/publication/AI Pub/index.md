@@ -24,8 +24,8 @@ publishDate: '2023-010-31Z'
 # 7 = Thesis; 8 = Patent
 publication_types: ['2']
 
-# Publication name and optional abbreviated publication name.
-publication: Illuminate, 5*
+# Journal / Pub name and optional abbreviated publication name.
+publication: Illuminate, *5*, 25-32.
 publication_short: Illuminate
 
 abstract: This study probes how biases are formed, and then mitigated within artificial neural networks for facial recognition. In current research on facial recognition neural networks, it has been shown that there are many ways that biases/prejudices can negatively affect the accuracy of the network on characteristics such as gender status and identity. In order to test this, two pre-trained neural networks were fed novel datasets - one on cisgender faces and one on transgender faces. The two pre-trained models were then analyzed with regards to gender identity and status variables on accuracy rates calculated from the direct prediction outputs provided by the neural networks. Notable biases were found within both datasets and models on gender characteristics. 
@@ -63,7 +63,7 @@ url_code: 'https://github.com/ewingard/HonorsThesis'
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
 projects:
-  - [AI Bias]
+  - ['AI-Bias']
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
