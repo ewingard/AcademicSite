@@ -1,5 +1,5 @@
 ---
-title: 'The Impact of Biases in Facial Recognition Artificial Neural Networks'
+title: 'The Impact of Biases in Facial Recognition NNs'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
@@ -25,8 +25,8 @@ publishDate: '2023-010-31Z'
 publication_types: ['2']
 
 # Publication name and optional abbreviated publication name.
-publication: The Impact of Biases in Facial Recognition ANNs
-publication_short: In *Illuminate*, an Undergraduate Journal of the NRHC
+publication: The Impact of Biases in Facial Recognition Artificial Neural Networks
+publication_short: The Impact of Biases in Facial Recognition ANNs
 
 abstract: This study probes how biases are formed, and then mitigated within artificial neural networks for facial recognition. In current research on facial recognition neural networks, it has been shown that there are many ways that biases/prejudices can negatively affect the accuracy of the network on characteristics such as gender status and identity. In order to test this, two pre-trained neural networks were fed novel datasets - one on cisgender faces and one on transgender faces. The two pre-trained models were then analyzed with regards to gender identity and status variables on accuracy rates calculated from the direct prediction outputs provided by the neural networks. Notable biases were found within both datasets and models on gender characteristics. 
 
@@ -40,11 +40,9 @@ featured: false
 
 # Custom links (uncomment lines below)
 links:
-- name: Link to Illuminate NRHC Journal
-url: '//www.illuminatenrhc.com/post/the-impact-of-biases-in-facial-recognition-artificial-neural-networks-by-ezra-wingard'
-
+# - name: 
 # url_pdf: ''
-# url_code: ''
+url_code: 'https://github.com/ewingard/HonorsThesis'
 # url_dataset: ''
 # url_poster: ''
 # url_project: ''
