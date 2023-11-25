@@ -17,7 +17,7 @@ links:
  - icon: file-lines
    icon_pack: fas
    name: Publication
-   url: 'https://www.illuminatenrhc.com/post/the-impact-of-biases-in-facial-recognition-artificial-neural-networks-by-ezra-wingard'
+   url: 'www.illuminatenrhc.com/post/the-impact-of-biases-in-facial-recognition-artificial-neural-networks-by-ezra-wingard'
 # url_code: ''
 # url_pdf: ''
 # url_slides: ''

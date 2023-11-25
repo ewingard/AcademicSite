@@ -41,9 +41,9 @@ featured: false
 # Custom links (uncomment lines below)
 links:
 - name: Link to Illuminate NRHC Journal
-url: 'https://www.illuminatenrhc.com/post/the-impact-of-biases-in-facial-recognition-artificial-neural-networks-by-ezra-wingard'
+url: 'www.illuminatenrhc.com/post/the-impact-of-biases-in-facial-recognition-artificial-neural-networks-by-ezra-wingard'
 
-url_pdf: ''
+# url_pdf: ''
 # url_code: ''
 # url_dataset: ''
 # url_poster: ''
