@@ -1,5 +1,5 @@
 ---
-title: The Impact of Biases in Facial Recognition Artificial Neural Networks - Preliminary Poster at NRHC
+title: Preliminary Poster at NRHC - The Impact of Biases in ANNs
 
 event: Northeast Regional Honors Conference
 

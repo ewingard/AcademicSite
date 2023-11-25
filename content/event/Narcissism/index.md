@@ -1,5 +1,5 @@
 ---
-title: Does Making Narcissists Feel Bad Make Them Better People?
+title: QUEST Poster - Does Making Narcissists Feel Bad Make Them Better People?
 
 event: SUNY Oswego QUEST
 

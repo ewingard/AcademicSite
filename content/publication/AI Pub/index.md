@@ -1,5 +1,5 @@
 ---
-title: 'The Impact of Biases in Facial Recognition NNs'
+title: 'The Impact of Biases in Facial Recognition Artificial Neural Networks'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
@@ -25,8 +25,8 @@ publishDate: '2023-010-31Z'
 publication_types: ['2']
 
 # Publication name and optional abbreviated publication name.
-publication: The Impact of Biases in Facial Recognition Artificial Neural Networks
-publication_short: The Impact of Biases in Facial Recognition ANNs
+publication: Illuminate, 5*
+publication_short: Illuminate
 
 abstract: This study probes how biases are formed, and then mitigated within artificial neural networks for facial recognition. In current research on facial recognition neural networks, it has been shown that there are many ways that biases/prejudices can negatively affect the accuracy of the network on characteristics such as gender status and identity. In order to test this, two pre-trained neural networks were fed novel datasets - one on cisgender faces and one on transgender faces. The two pre-trained models were then analyzed with regards to gender identity and status variables on accuracy rates calculated from the direct prediction outputs provided by the neural networks. Notable biases were found within both datasets and models on gender characteristics. 
 
@@ -73,3 +73,7 @@ projects:
 slides: ""
 
 ---
+
+Due to the issues of AI Ethics detailed within this publication, the datasets used for testing purposes are not able to be shared to preserve the identities of all individuals within the transgender and cisgender groups.
+
+For other information about my Honors Thesis, feel free to search through the AI Bias project. Other information detailed within the project section include conference presentations and pertinent background information about the need for such research.

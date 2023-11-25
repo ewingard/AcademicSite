@@ -22,6 +22,22 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
+  - title: Animal Care Technician
+    company: Carolina Wildlife Care
+    company_url: 'https://carolinawildlife.org/contact/'
+    location: Columbia, South Carolina
+    date_start: '2023-09-18'
+    date_end: ''
+    description: |2-
+        Responsibilities included:
+
+        *Administering medication and food to animals <br/>
+        *Maintain records of medication, dietary requirements, behavioral observations <br/>
+        *Providing care for future rehabilitation and release <br/>
+        *Caring for and handling over 70 animals daily <br/>
+        *Adhering to safety protocols to ensure animals' comfort<br/>
+
+
   - title: SHOP Coordinator
     company: SUNY Oswego
     company_url: 'https://ww1.oswego.edu/dean-students/shop'

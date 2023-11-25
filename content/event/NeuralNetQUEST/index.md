@@ -1,7 +1,7 @@
 ---
-title: The Impact of Biases in Facial Recognition Artificial Neural Networks
+title: QUEST Talk - The Impact of Biases in ANNs
 
-event: SUNY Oswego QUEST
+event: SUNY Oswego QUEST Week
 
 location: Shineman 174, Zoom
 
