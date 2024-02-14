@@ -1,7 +1,7 @@
 ---
 title: The Impact of Biases in Facial Recognition Artificial Neural Networks
 subtitle: Honors Thesis at SUNY Oswego
-summary: Finding and mitigating biases in facial recognition convolutional neural network models
+summary: Finding and mitigating gender biases in facial recognition convolutional neural network models.
 tags:
   - CompSci
 date: '2022-10-02'
@@ -12,7 +12,7 @@ date: '2022-10-02'
 links:
  - icon: github
    icon_pack: fab
-   name: Check out my Github Repo!
+   name: Check out my Github Repo.
    url: 'https://github.com/ewingard/HonorsThesis'
  - icon: file-lines
    icon_pack: fas
@@ -34,7 +34,7 @@ In the field of artificial intelligence, the topic of neural network prejudice a
 
 For the basis of my honors thesis at SUNY Oswego, I used two convolutional neural network (CNN) models that allowed me to probe some pressing questions on facial recognition neural network biases:
 
-  1. How do biases infiltrate neural networks and thus affect their accuracy rates?
+  1. How do biases infiltrate neural networks and affect their accuracy rates?
   2. What are the real-life effects of the reprecussions caused by these biases on marginalized groups of people?
   3. How can we mitigate some of the biases leading to gender prejudice in neural networks?
 

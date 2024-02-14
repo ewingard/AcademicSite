@@ -28,7 +28,7 @@ url_video: ''
 # slides: ''
 ---
 
-Aphantasia is a relatively newly [named](https://pubmed.ncbi.nlm.nih.gov/26115582/) condition which describes the lack of mental imagery in the mind. It exists on a scale from no mental imagery (aphantasia) to extreme mental imagery (hyperphantasia), which for visual imagery can be quantified through a test called the [VVIQ](https://aphantasia.com/vviq/), or Vividness of Visual Imagery Questionnaire. There is also the QMI, pr [Questionnaire of Visual Imagery](https://pubmed.ncbi.nlm.nih.gov/6082130/), which encompasses *all* mental imagery, not just visual. 
+Aphantasia is a relatively newly [named](https://pubmed.ncbi.nlm.nih.gov/26115582/) condition which describes the lack of mental imagery in the mind. It exists on a scale from no mental imagery (aphantasia) to extremely vivid mental imagery (hyperphantasia), which for visual imagery can be quantified through a test called the [VVIQ](https://aphantasia.com/vviq/), or Vividness of Visual Imagery Questionnaire. There is also the QMI, pr [Questionnaire of Visual Imagery](https://pubmed.ncbi.nlm.nih.gov/6082130/), which encompasses *all* mental imagery, not just visual imagery.
 
 The study that I worked on with Dr. Theo Rhodes and Dr. Sien Hu at SUNY Oswego sought to answer the questions:
 
@@ -37,7 +37,5 @@ The study that I worked on with Dr. Theo Rhodes and Dr. Sien Hu at SUNY Oswego s
 
 In order to test this, we conducted a preliminary study during 2021 using the CABIN 3-T fMRI at the University of Rochester in order to see the physical differences between aphantasic and non-aphantasic individuals brains during the mental rotation task. A manuscript for publication is currently in preparation containing the results. Four adults with self-reported aphantasia and six adults without aphantasia participated in this study.
 
-
 ***NOTE.***
-
 Preparations are in place to continue this study without gathering additional fMRI data. MouseTracking and solely behavioral information will be used to collect pertinent information on Aphantasia.

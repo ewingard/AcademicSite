@@ -22,20 +22,35 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
+  - title: Research Assistant
+    company: B-RAD Lab, Psychology Department, University of South Carolina
+    company_url: 'https://www.b-radlab.com/'
+    location: Columbia, South Carolina
+    date_start: '2024-02-01'
+    date_end: ''
+    description: |2-
+        Responsibilities include:
+
+        *Research participant recruitment and retainment for the SC-WB Study <br/>
+        *Facilitate data collection using surveys, EEG, Eye-Tracking, and ECG <br/>
+        *Maintaning records and adhering to proper data management protocols <br/>
+        *Processing e-prime code to ensure experimental efficiency <br/>
+        *Redesign RedCAP database to improve data collection and management<br/>
+
   - title: Animal Care Technician
     company: Carolina Wildlife Care
     company_url: 'https://carolinawildlife.org/contact/'
     location: Columbia, South Carolina
     date_start: '2023-09-18'
-    date_end: ''
+    date_end: '2024-01-31'
     description: |2-
         Responsibilities included:
 
-        *Administering medication and food to animals <br/>
-        *Maintain records of medication, dietary requirements, behavioral observations <br/>
-        *Providing care for future rehabilitation and release <br/>
-        *Caring for and handling over 70 animals daily <br/>
-        *Adhering to safety protocols to ensure animals' comfort<br/>
+        *Administered medication and food to animals <br/>
+        *Maintained records of medication, dietary requirements, behavioral observations <br/>
+        *Provided care for future rehabilitation and release <br/>
+        *Cared for and handling over 70 animals daily <br/>
+        *Adhered to safety protocols to ensure animals' comfort<br/>
 
 
   - title: SHOP Coordinator

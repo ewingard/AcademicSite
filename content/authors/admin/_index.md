@@ -69,7 +69,7 @@ email: ''
 highlight_name: true
 ---
 
-Hi there! My name is Ezra M. Wingard, and I am a recent graduate of SUNY Oswego. I have a wide range of research interests, from gender representations in the brain, the default mode network, neural network biases, to attention dynamics involving memory and learning, how we can categorize neural representations (such as through an analog or descriptive approach), and aphantasia's effect on percepts in the brain.
+Hi there! My name is Ezra M. Wingard, and I am a recent graduate of SUNY Oswego, currently working at the University of South Carolina. I have a wide range of research interests, from gender representations in the brain, the default mode network, artificial neural network bias, to attention dynamics involving memory and learning, how we can categorize neural representations (such as through an analog or descriptive approach), and aphantasia's effect on percepts.
 
 I am eager to meet new individuals within the realm of cognitive science, psychology, and surrounding areas, so if you're interested in meeting virtually, please feel free to email me or send me a text!
 
