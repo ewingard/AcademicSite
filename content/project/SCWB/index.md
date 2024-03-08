@@ -6,7 +6,7 @@ tags:
   - Psych
 date: '2024-02-01'
 
-Optional external URL for project (replaces project detail page).
+# Optional external URL for project (replaces project detail page).
 external_link: 'https://b-radlab.com/sc-wb-study.html'
 
 # url_code: ''
