@@ -69,8 +69,6 @@ email: ''
 highlight_name: true
 ---
 
-Hi there! My name is Ezra M. Wingard, and I am a recent graduate of SUNY Oswego, currently working at the University of South Carolina. I have a wide range of research interests, from gender representations in the brain, the default mode network, artificial neural network bias, to attention dynamics involving memory and learning, how we can categorize neural representations (such as through an analog or descriptive approach), and aphantasia's effect on percepts.
+Hi there! My name is Ezra M. Wingard, and I am a 2023 Graduate of SUNY Oswego, currently working on the SC-WB Study under Dr. Caitlin Hudac at the University of South Carolina.. I have varying research interests, but the major question I seek to answer is "What is it like?" Current avenues of research that I am pursuing include: how our personal identity affects behaviors within adolescent social behaviors.
 
-I am eager to meet new individuals within the realm of cognitive science, psychology, and surrounding areas, so if you're interested in meeting virtually, please feel free to email me or send me a text!
-
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/emw-CV.pdf" "newtab" >}}CV{{< /staticref >}}.
+I am always open to making new connections with researchers and scientists. If you're interested, feel free to contact me via email or text!

@@ -28,6 +28,7 @@ feature:
     icon: terminal
     icon_pack: fas
     name: Programming / Data Analytics
+    
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
 #  icon_pack: "emoji"
