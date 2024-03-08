@@ -10,12 +10,12 @@ last_name: Wingard
 superuser: true
 
 # Role/position/tagline
-role: Gradute of Cognitive Science and Psychology, Programmer, and AI Enthusiast
+role: Research Assistant
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: SUNY Oswego
-    url: ww1.oswego.edu
+  - name: University of South Carolina
+  - url: https://sc.edu/study/colleges_schools/artsandsciences/psychology/index.php
 
 # Short bio (displayed in user profile at end of posts)
 bio: Aspiring researcher and data analyst with a passion for an array of subjects including data analysis, language acquisition, and cognition/memory.
@@ -23,16 +23,18 @@ bio: Aspiring researcher and data analyst with a passion for an array of subject
 # Interests to show in About widget
 interests:
   - Artificial Intelligence
-  - Mental representations
-  - Attention, learning, and memory
-  - Data analytics
+  - Mental Representations (Aphantasia)
+  - Social Identity and Behaviors
+  - Data Analytics & Statistics
 
 # Education to show in About widget
 education:
-  courses:
-    - course: B.A. in Cognitive Science & Psychology, Minor in French
-      institution: SUNY Oswego
-      year: 2023
+  - area: BA Cognitive Science, Psychology
+    institution: State University of New York (SUNY) at Oswego
+    year: 2023
+    summary: |
+      GPA: 3.6/4.0
+      Minor in French
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -41,16 +43,13 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:emwingard07@gmail.com'
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/neuroemw
+    link: '/#contact'
  # - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
  #   icon_pack: fas
  #   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ 
   - icon: orcid
     icon_pack: ai
-#    name: ORCID
+#   name: ORCID
     link: 'https://orcid.org/0009-0008-5315-2370'
   - icon: linkedin
     icon_pack: fab
@@ -62,6 +61,45 @@ social:
     icon_pack: ai
     link: 'uploads/emw-CV.pdf'
 
+    skills:
+  - name: Programming
+    items:
+      - name: Python
+        description: ''
+        percent: 80
+        icon: devicon/python
+      - name: Java
+        description: ''
+        percent: 70
+        icon: chart-line
+        icon_pack: fas
+      - name: R (including Tidyverse)
+        description: ''
+        percent: 90
+        icon: devicon/rstudio
+  - name: Research
+    color: '#990000'
+    color_border: '#990000'
+    items:
+      - name: EEG
+        description: ''
+        percent: 75
+        icon: brain
+        icon_pack: fas
+      - name: fMRI
+        description: ''
+        percent: 50
+        icon: brain
+        icon_pack: fas
+
+languages:
+  - name: English
+    percent: 100
+  - name: French
+    percent: 85
+  - name: Spanish
+    percent: 25
+
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ''
 
@@ -69,8 +107,3 @@ email: ''
 highlight_name: true
 ---
 
-Hi there! My name is Ezra M. Wingard, and I am a recent graduate of SUNY Oswego, currently working at the University of South Carolina. I have a wide range of research interests, from gender representations in the brain, the default mode network, artificial neural network bias, to attention dynamics involving memory and learning, how we can categorize neural representations (such as through an analog or descriptive approach), and aphantasia's effect on percepts.
-
-I am eager to meet new individuals within the realm of cognitive science, psychology, and surrounding areas, so if you're interested in meeting virtually, please feel free to email me or send me a text!
-
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/emw-CV.pdf" "newtab" >}}CV{{< /staticref >}}.
